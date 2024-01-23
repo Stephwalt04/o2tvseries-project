@@ -1,0 +1,90 @@
+.gen{
+    background-color: #5d648e;
+    border-radius: 10px 10px 0 0;
+    color:#fff;
+    margin:5px;
+} 
+
+.gen h3{
+    padding:10px;
+}
+
+.img{
+    text-align: center;
+}
+
+.above{
+    border:1px solid #d3d9e8 ;
+    background-color: #f6f7f8;
+    border-left: none;
+    border-right: none;
+    margin:5px;
+}
+
+.above p{
+    text-align: center;
+}
+
+input[type=text]{
+    padding:6px;
+    margin-top: 10px;
+}
+
+.below{
+    border:1px solid #5d648e ;
+    background-color:#5d648e ;
+    border-left: none;
+    border-right: none;
+    color:#fff;
+    margin:5px;
+}
+.below h4{
+    text-align: center;
+}
+
+.about{
+    border:1px solid #5d648e ;
+    background-color:#5d648e ;
+    border-left: none;
+    padding:5px 5px 0 0;
+    border-right: none;
+    color:#fff;
+    margin-top:-20px;
+}
+.about p{
+    text-align: center;
+    font-size: 18px;
+}
+
+.away{
+    background-color: #5d648e;
+    color:#fff;
+}
+
+.away p{
+    padding:10px 0 10px  0;
+}
+
+.fail{
+    background-color:#f6f7f8;
+    border-left: none;
+    border-right: none;
+    margin-top: -10px;
+}
+
+.fail p{
+     text-align: center;
+     padding:5px;
+}
+
+.main{
+    background-color: #5d648e;
+    text-align: center;
+    color:#fff;
+    margin-top:-10px;
+    border-radius: 0 0 8px 8px;
+}
+
+.main p{
+    padding:7px 0 7px 0;
+}
